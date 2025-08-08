@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Veysel Balcı
+# 👋 Hi, I'm Veysel Balçık
 
 Welcome to my GitHub portfolio! Here, you can explore my academic, internship, thesis, and personal projects. All repositories are carefully organized by category for easy browsing.
 
