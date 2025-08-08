@@ -53,7 +53,7 @@ Welcome to my GitHub portfolio! Here, you can explore my academic, internship, t
 
 ---
 
-# 👋 Merhaba, ben Veysel Balcı
+# 👋 Merhaba, ben Veysel Balçık
 
 GitHub portföyüme hoş geldiniz! Burada akademik, staj, bitirme tezi ve kişisel projelerimi keşfedebilirsiniz. Tüm repolar kategorilere göre düzenlenmiştir, kolayca gezebilirsiniz.
 
