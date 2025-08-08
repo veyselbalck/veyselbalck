@@ -98,7 +98,8 @@ GitHub portföyüme hoş geldiniz! Burada akademik, staj, bitirme tezi ve kişis
 
 ---
 
-## 🔬 Diğer Projeler  
+## 🔬 Diğer Projeler
+- [Utopia-Playwright-Tests](https://github.com/veyselbalck/Utopia-Playwright-Tests)
 - [medantalya](https://github.com/veyselbalck/medantalya)
 
 ---
