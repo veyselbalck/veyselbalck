@@ -45,7 +45,7 @@ Welcome to my GitHub portfolio! Here, you can explore my academic, internship, t
 
 ## 🔬 Other Projects  
 - [medantalya](https://github.com/veyselbalck/medantalya)  
-
+- [Utopia-Playwright-Tests](https://github.com/veyselbalck/Utopia-Playwright-Tests)
 ---
 
 > 📄 [Click here to see all my repositories](https://github.com/veyselbalck?tab=repositories)
