@@ -5,7 +5,6 @@ Welcome to my GitHub portfolio! Here, you can explore my academic, internship, t
 ---
 
 ## 💼 CV / Portfolio
-- [My CV (GitHub)](https://github.com/veyselbalck/Cv)
 - [My CV (Website)](https://veyselbalck.github.io/Cv)
 
 ---
@@ -80,7 +79,6 @@ GitHub portföyüme hoş geldiniz! Burada akademik, staj, bitirme tezi, web, oto
 ---
 
 ## 💼 CV / Portföy
-- [CV'm (GitHub)](https://github.com/veyselbalck/Cv)
 - [CV'm (Web Sitesi)](https://veyselbalck.github.io/Cv)
 
 ---
