@@ -79,7 +79,6 @@ GitHub portföyüme hoş geldiniz! Burada akademik, staj, bitirme tezi, web, oto
 ---
 
 ## 💼 CV / Portföy
-- [CV'm (GitHub)](https://github.com/veyselbalck/Cv)
 - [CV'm (Web Sitesi)](https://veyselbalck.github.io/Cv)
 
 ---
