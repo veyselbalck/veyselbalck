@@ -5,7 +5,6 @@ Welcome to my GitHub portfolio! Here, you can explore my academic, internship, t
 ---
 
 ## 💼 CV / Portfolio
-- [My CV (GitHub)](https://github.com/veyselbalck/Cv)
 - [My CV (Website)](https://veyselbalck.github.io/Cv)
 
 ---
