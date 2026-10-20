@@ -35,7 +35,7 @@ Welcome to my GitHub portfolio! Here, you can explore my academic, internship, t
   _Manages job outreach, sends resume emails, and tracks replies._
 - [Daily Resume Emailer](https://github.com/veyselbalck/daily-resume-emailer)  
   _Sends personalized resume emails from a Google Sheets recipient list._
-- [Flight Price Alerts](https://github.com/veyselbalck/flight-price-alerts)  
+- [Cheap Flight Finder](https://github.com/veyselbalck/cheap-flight-finder)  
   _Monitors flight prices and sends route alerts to Telegram._
 
 ---
@@ -109,7 +109,7 @@ GitHub portföyüme hoş geldiniz! Burada akademik, staj, bitirme tezi, web, oto
   _İş başvuru maillerini yönetir, özgeçmiş e-postaları gönderir ve yanıtları takip eder._
 - [Günlük Özgeçmiş Gönderici](https://github.com/veyselbalck/daily-resume-emailer)  
   _Google Sheets alıcı listesinden kişiselleştirilmiş özgeçmiş e-postaları gönderir._
-- [Uçuş Fiyat Alarmı](https://github.com/veyselbalck/flight-price-alerts)  
+- [Ucuz Uçak Bileti Bulucu](https://github.com/veyselbalck/cheap-flight-finder)  
   _Uçuş fiyatlarını izler ve rota bazlı uyarıları Telegram'a gönderir._
 
 ---
