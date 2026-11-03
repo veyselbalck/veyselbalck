@@ -1,3 +1,14 @@
+<h1 align="center">👋 Veysel Balçık</h1>
+
+<p align="center">
+  🌍 Select your language / Dilinizi seçin
+</p>
+
+<details>
+<summary><b>🇬🇧 English</b></summary>
+
+<br>
+
 # 👋 Hi, I'm Veysel Balçık
 
 Welcome to my GitHub portfolio! Here, you can explore my academic, internship, thesis, web, automation, and personal projects. All repositories are carefully organized by category for easy browsing.
@@ -69,8 +80,12 @@ Welcome to my GitHub portfolio! Here, you can explore my academic, internship, t
 
 > 📄 [Click here to see all my repositories](https://github.com/veyselbalck?tab=repositories)
 
+</details>
 
----
+<details>
+<summary><b>🇹🇷 Türkçe</b></summary>
+
+<br>
 
 # 👋 Merhaba, ben Veysel Balçık
 
@@ -142,3 +157,5 @@ GitHub portföyüme hoş geldiniz! Burada akademik, staj, bitirme tezi, web, oto
 ---
 
 > 📄 [Tüm repolarımı görmek için tıklayın](https://github.com/veyselbalck?tab=repositories)
+
+</details>
