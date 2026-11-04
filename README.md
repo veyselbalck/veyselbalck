@@ -1,11 +1,29 @@
 # 👋 Hi, I'm Veysel Balçık
 
-Welcome to my GitHub portfolio! Here, you can explore my academic, internship, thesis, web, automation, and personal projects. All repositories are carefully organized by category for easy browsing.
+Welcome to my GitHub portfolio! Here, you can explore my academic, internship, thesis, web, automation, e-commerce, and personal projects. All repositories are carefully organized by category for easy browsing.
 
 ---
 
 ## 💼 CV / Portfolio
 - [My CV (Website)](https://veyselbalck.github.io/Cv)
+
+---
+
+## 🛍️ Professional Experience
+
+### E-Commerce Manager — Dedeağa Danışmanlık
+**YeniBazaar Project**
+
+- Managed day-to-day e-commerce platform operations.
+- Coordinated teams and supported communication across the operation.
+- Used Ticimax; experience with platform workflows can be applied to similar e-commerce systems.
+
+## 🧰 E-Commerce & Operations Tools
+
+- [Excel Row Splitter](https://github.com/veyselbalck/excel-row-splitter)  
+  _Splits large Excel worksheets into smaller sheets; can be used with compatible spreadsheet exports from Ticimax and similar e-commerce platforms. It does not connect directly to those platforms._
+- [Guinea Product Price Converter](https://github.com/veyselbalck/guinea-product-price-converter)  
+  _Processes product data from CSV or Excel files; configurable columns and category mappings support adapting compatible exports from Ticimax and similar platforms. It does not connect directly to those platforms._
 
 ---
 
@@ -74,12 +92,30 @@ Welcome to my GitHub portfolio! Here, you can explore my academic, internship, t
 
 # 👋 Merhaba, ben Veysel Balçık
 
-GitHub portföyüme hoş geldiniz! Burada akademik, staj, bitirme tezi, web, otomasyon ve kişisel projelerimi keşfedebilirsiniz. Tüm repolar kategorilere göre düzenlenmiştir, kolayca gezebilirsiniz.
+GitHub portföyüme hoş geldiniz! Burada akademik, staj, bitirme tezi, web, otomasyon, e-ticaret ve kişisel projelerimi keşfedebilirsiniz. Tüm repolar kategorilere göre düzenlenmiştir, kolayca gezebilirsiniz.
 
 ---
 
 ## 💼 CV / Portföy
 - [CV'm (Web Sitesi)](https://veyselbalck.github.io/Cv)
+
+---
+
+## 🛍️ Profesyonel Deneyim
+
+### E-Ticaret Yöneticisi — Dedeağa Danışmanlık
+**YeniBazaar Projesi**
+
+- E-ticaret platformundaki günlük operasyonları yönettim.
+- Operasyonda yer alan ekiplerin koordinasyonunu ve ekipler arası iletişimi sağladım.
+- Ticimax kullandım; platform iş akışlarına dair deneyimimi benzer e-ticaret sistemlerine aktarabilirim.
+
+## 🧰 E-Ticaret ve Operasyon Araçları
+
+- [Excel Row Splitter](https://github.com/veyselbalck/excel-row-splitter)  
+  _Büyük Excel çalışma sayfalarını daha küçük sayfalara böler; Ticimax ve benzeri e-ticaret platformlarından alınan uyumlu tablo çıktılarıyla kullanılabilir. Platformlara doğrudan bağlanmaz._
+- [Guinea Product Price Converter](https://github.com/veyselbalck/guinea-product-price-converter)  
+  _CSV veya Excel dosyalarındaki ürün verilerini işler; sütun ve kategori eşleştirme seçenekleri Ticimax ve benzeri platformlardan alınan uyumlu çıktılara göre ayarlama yapılmasını sağlar. Platformlara doğrudan bağlanmaz._
 
 ---
 
