@@ -9,6 +9,15 @@ Welcome to my GitHub portfolio! Here, you can explore my academic, internship, t
 
 ---
 
+## ⭐ Featured Project
+
+### [Job Application Automation (n8n)](https://github.com/veyselbalck/job-application-automation-n8n)
+An end-to-end **n8n** workflow that finds tech companies, validates their domains (MX), and sends scheduled job-application emails with a CV attachment. Built-in safety rails: daily cap, de-duplication, bounce tracking and an automatic stop.
+
+`n8n` · `Groq API (LLM)` · `Google Sheets / Gmail / Drive` · `DNS (MX) validation` · `Docker`
+
+---
+
 ## 🛍️ Professional Experience
 
 ### E-Commerce Manager — Dedeağa Danışmanlık
@@ -51,8 +60,10 @@ Welcome to my GitHub portfolio! Here, you can explore my academic, internship, t
 ---
 
 ## 🤖 Automation & Tracking Tools
+- ⭐ [**Job Application Automation (n8n)**](https://github.com/veyselbalck/job-application-automation-n8n)  
+  _n8n workflow that finds tech companies, validates their domains (MX) and sends scheduled job-application emails with a daily cap, bounce tracking and an automatic stop. (n8n, Groq API, Google Sheets/Gmail/Drive)_
 - [Job Application Outreach Tracker](https://github.com/veyselbalck/job-application-outreach-tracker)  
-  _Manages job outreach, sends resume emails, and tracks replies. (Google Apps Script)_
+  _Manages job outreach, sends resume emails, and tracks replies. (Google Apps Script — the earlier version of the n8n project)_
 - [Daily Resume Emailer](https://github.com/veyselbalck/daily-resume-emailer)  
   _Sends personalized resume emails from a Google Sheets recipient list. (Google Apps Script)_
 - [Kamu Takip](https://github.com/veyselbalck/kamu-takip)  
@@ -107,6 +118,15 @@ GitHub portföyüme hoş geldiniz! Burada akademik, staj, bitirme tezi, web, oto
 
 ---
 
+## ⭐ Öne Çıkan Proje
+
+### [İş Başvurusu Otomasyonu (n8n)](https://github.com/veyselbalck/job-application-automation-n8n)
+Teknoloji firmalarını bulan, alan adlarını (MX) doğrulayan ve CV ekli iş başvurusu maillerini zamanlanmış şekilde gönderen uçtan uca bir **n8n** workflow'u. Güvenlik önlemleri: günlük limit, tekrar eleme, geri dönen (bounce) mail takibi ve otomatik durdurma.
+
+`n8n` · `Groq API (LLM)` · `Google Sheets / Gmail / Drive` · `DNS (MX) doğrulama` · `Docker`
+
+---
+
 ## 🛍️ Profesyonel Deneyim
 
 ### E-Ticaret Yöneticisi — Dedeağa Danışmanlık
@@ -149,8 +169,10 @@ GitHub portföyüme hoş geldiniz! Burada akademik, staj, bitirme tezi, web, oto
 ---
 
 ## 🤖 Otomasyon ve Takip Araçları
+- ⭐ [**İş Başvurusu Otomasyonu (n8n)**](https://github.com/veyselbalck/job-application-automation-n8n)  
+  _Teknoloji firmalarını bulup alan adlarını (MX) doğrulayan ve zamanlanmış iş başvurusu mailleri gönderen n8n workflow'u; günlük limit, bounce takibi ve otomatik durdurma içerir. (n8n, Groq API, Google Sheets/Gmail/Drive)_
 - [İş Başvurusu Takip Aracı](https://github.com/veyselbalck/job-application-outreach-tracker)  
-  _İş başvuru maillerini yönetir, özgeçmiş e-postaları gönderir ve yanıtları takip eder. (Google Apps Script)_
+  _İş başvuru maillerini yönetir, özgeçmiş e-postaları gönderir ve yanıtları takip eder. (Google Apps Script — n8n projesinin önceki sürümü)_
 - [Günlük Özgeçmiş Gönderici](https://github.com/veyselbalck/daily-resume-emailer)  
   _Google Sheets alıcı listesinden kişiselleştirilmiş özgeçmiş e-postaları gönderir. (Google Apps Script)_
 - [Kamu Takip](https://github.com/veyselbalck/kamu-takip)  
