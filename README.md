@@ -60,7 +60,7 @@ An end-to-end **n8n** workflow that finds tech companies, validates their domain
 ---
 
 ## 🤖 Automation & Tracking Tools
-- ⭐ [**Job Application Automation (n8n)**](https://github.com/veyselbalck/job-application-automation-n8n)  
+- [Job Application Automation (n8n)](https://github.com/veyselbalck/job-application-automation-n8n)  
   _n8n workflow that finds tech companies, validates their domains (MX) and sends scheduled job-application emails with a daily cap, bounce tracking and an automatic stop. (n8n, Groq API, Google Sheets/Gmail/Drive)_
 - [Job Application Outreach Tracker](https://github.com/veyselbalck/job-application-outreach-tracker)  
   _Manages job outreach, sends resume emails, and tracks replies. (Google Apps Script — the earlier version of the n8n project)_
