@@ -7,17 +7,6 @@ Welcome to my GitHub portfolio! Here, you can explore my academic, internship, t
 ## 💼 CV / Portfolio
 - [My CV (Website)](https://veyselbalck.github.io/Cv)
 
----
-
-## ⭐ Featured Project
-
-### [Job Application Automation (n8n)](https://github.com/veyselbalck/job-application-automation-n8n)
-An end-to-end **n8n** workflow that finds tech companies, validates their domains (MX), and sends scheduled job-application emails with a CV attachment. Built-in safety rails: daily cap, de-duplication, bounce tracking and an automatic stop.
-
-`n8n` · `Groq API (LLM)` · `Google Sheets / Gmail / Drive` · `DNS (MX) validation` · `Docker`
-
----
-
 ## 🛍️ Professional Experience
 
 ### E-Commerce Manager — Dedeağa Danışmanlık
